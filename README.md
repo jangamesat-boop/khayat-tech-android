@@ -4,9 +4,9 @@
 
 ## التنزيل
 
-[تحميل خِياط تك 1.7.4 للأندرويد](https://github.com/jangamesat-boop/khayat-tech-android/releases/latest/download/khayat_tech_android_1.7.4.apk)
+[تنزيل خِياط تك — أحدث إصدار للأندرويد](https://github.com/jangamesat-boop/khayat-tech-android/releases/latest/download/khayat_tech_android.apk)
 
-يعمل على Android 7.0 أو أحدث. ثبّت الإصدار الجديد فوق النسخة الحالية دون حذف التطبيق للمحافظة على البيانات. إذا لم يعمل رابط التنزيل، افتح قسم **Releases** واختر ملف APK.
+الإصدار الحالي **1.7.4** ويعمل على Android 7.0 أو أحدث. ثبّت التحديث فوق النسخة الحالية دون حذف التطبيق للمحافظة على البيانات. ويمكنك فتح [صفحة الإصدارات](https://github.com/jangamesat-boop/khayat-tech-android/releases) لمراجعة التفاصيل وبصمة الملف.
 
 الحسابات محفوظة على الجهاز ولا توجد مزامنة تلقائية بين الأجهزة. احتفظ بنسخة احتياطية من داخل التطبيق. يحتاج البرنامج إلى رمز تفعيل بعد الفترة التجريبية.
 
